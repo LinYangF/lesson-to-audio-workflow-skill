@@ -1,3 +1,5 @@
-display_name: Lesson to Audio Workflow
-short_description: Turn lesson plans into narration and audio.
-default_prompt: 把这份教案按流程生成演示文案、逐页口播稿、整段口播文本和音频。
+interface:
+  display_name: "Lesson to Audio Workflow"
+  short_description: "Convert lesson plans into narration audio."
+  brand_color: "#2563EB"
+  default_prompt: "Use $lesson-to-audio-workflow to turn this lesson plan into page scripts, spoken narration, full TTS text, and audio."
