@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated lesson/audio artifacts
+*.wav
+*.mp3
+*.mp4
