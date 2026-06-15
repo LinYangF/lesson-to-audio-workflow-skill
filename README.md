@@ -1,5 +1,7 @@
 # Lesson to Audio Workflow Skill
 
+[中文说明](README.zh-CN.md)
+
 A Codex skill for turning lesson plans into video-ready teaching scripts, spoken narration, full TTS text, and natural audio.
 
 ## What It Does
